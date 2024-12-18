@@ -41,3 +41,8 @@ This project explores a comprehensive dataset of road accidents to uncover patte
 1. Install the required libraries:  
    ```bash
    pip install -r requirements.txt
+
+2. To execute the Streamlit Application:
+   ```bash
+   python3 -m streamlit run traffic_analysis_app.py
+   
